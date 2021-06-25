@@ -1,5 +1,4 @@
-### ABOUT ME
-
+### Hi there 🙋🏼‍♀️
 ```js 
 class SoftwareEngineer {
     firstName   :   'Caroline Lucas';
