@@ -1,4 +1,4 @@
-### Hello World 👋🏻
+### Hello, World! 
 ```js 
 class SoftwareEngineer {
     firstName   :   'Caroline Lucas';
