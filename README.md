@@ -1,4 +1,4 @@
-### Hi there 👋
+### ABOUT ME
 
 ```js 
 class SoftwareEngineer {
